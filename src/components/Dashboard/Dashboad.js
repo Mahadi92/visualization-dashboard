@@ -1,9 +1,11 @@
 import React from 'react';
 
+
 const Dashboad = () => {
+
     return (
-        <div>
-            <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, facilis fugit. At, suscipit. Fuga vitae, nisi voluptatem optio autem libero ipsam corrupti. Officiis voluptatem odio quaerat autem. Sequi, eius assumenda?</h1>
+        <div className="w-100">
+            <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum dolores deleniti nam ad atque dolor veritatis voluptate eum animi sunt exercitationem molestias, eos voluptates quibusdam ullam autem sequi culpa ea.</h2>
         </div>
     );
 };
